@@ -4,3 +4,14 @@
     padding: 5px 15px;
     width: 100px;
 }
+
+.caixa{
+    background-color: tomato;
+    width: 859px;
+}
+
+.caixa-com-padding {
+    background-color: lightblue;
+    padding: 0 305px;
+    width: 250px;
+}
